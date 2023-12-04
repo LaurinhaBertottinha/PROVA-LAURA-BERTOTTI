@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title> <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>prova</h1>
+    <h2>idalia rocha</h2>
+    <div class="foto">
+        <img src="foto.jpeg" alt="foto">
+        <b>
+            <h3>
+                ℙ𝕣𝕠𝕘𝕣𝕒𝕞𝕒çã𝕠 é 𝕠 𝕡𝕣𝕠𝕔𝕖𝕤𝕤𝕠 𝕕𝕖 𝕔𝕣𝕚𝕒çã𝕠 𝕕𝕖 𝕦𝕞 𝕔𝕠𝕟𝕛𝕦𝕟𝕥𝕠 𝕕𝕖 𝕚𝕟𝕤𝕥𝕣𝕦çõ𝕖𝕤 𝕢𝕦𝕖 𝕕𝕚𝕫𝕖𝕞 𝕒𝕠 𝕔𝕠𝕞𝕡𝕦𝕥𝕒𝕕𝕠𝕣 𝕔𝕠𝕞𝕠 𝕣𝕖𝕒𝕝𝕚𝕫𝕒𝕣 𝕦𝕞𝕒 𝕥𝕒𝕣𝕖𝕗𝕒. ℙ𝕣𝕠𝕘𝕣𝕒𝕞𝕒çã𝕠 𝕡𝕠𝕕𝕖 𝕤𝕖𝕣 𝕗𝕖𝕚𝕥𝕒 𝕦𝕤𝕒𝕟𝕕𝕠 𝕦𝕞𝕒 𝕧𝕒𝕣𝕚𝕖𝕕𝕒𝕕𝕖 𝕕𝕖 "𝕚𝕕𝕚𝕠𝕞𝕒𝕤" 𝕕𝕠 𝕔𝕠𝕞𝕡𝕦𝕥𝕒𝕕𝕠𝕣, 𝕥𝕒𝕚𝕤 𝕔𝕠𝕞𝕠 𝕊ℚ𝕃, 𝕁𝕒𝕧𝕒, ℙ𝕪𝕥𝕙𝕠𝕟 𝕖 ℂ++.
+            </h3>
+        </b>
+    </div>
+
+
+</body>
+</html>
